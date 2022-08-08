@@ -1,0 +1,15 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "swf:craft_forge"
+				
+			}
+		}
+	},
+	"parent": "swf:recipes/root",
+	"rewards": {
+		"function": "swf:base/give_forge"
+	}
+}

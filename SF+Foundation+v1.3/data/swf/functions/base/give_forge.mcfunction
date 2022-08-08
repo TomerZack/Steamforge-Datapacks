@@ -1,0 +1,4 @@
+recipe take @a[advancements={swf:recipes/craft_forge=true},limit=1] swf:craft_forge
+tag @a[advancements={swf:recipes/craft_forge=true},limit=1] add give_forge
+give @a[advancements={swf:recipes/craft_forge=true},limit=1] minecraft:armor_stand{display:{Name:"{\"text\":\"Crafting Forge\",\"italic\":false}"},EntityTag:{Pose: {Head: [0.0f, 0.0f, 0.0f], Body: [0.0f, 0.0f, 0.0f]},CustomNameVisible:0b,Marker:1b,NoGravity:1b,Invulnerable:1b,Invisible:1b,Tags:["craft_forge"],ArmorItems:[{},{},{},{id:"minecraft:command_block_minecart",Count:1b}],CustomName:"{\"text\":\"Crafting Forge\"}"}} 1
+advancement revoke @a[advancements={swf:recipes/craft_forge=true},limit=1] from swf:recipes/root

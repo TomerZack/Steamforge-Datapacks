@@ -1,0 +1,29 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#IE",
+        "___",
+        "iii"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:shears"
+        },
+        "I": {
+            "item": "minecraft:iron_pickaxe"
+        },
+        "E": {
+            "item": "minecraft:iron_axe"
+        },
+        "_": {
+            "item": "minecraft:stone_slab"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:command_block_minecart",
+        "count": 1
+    }
+}

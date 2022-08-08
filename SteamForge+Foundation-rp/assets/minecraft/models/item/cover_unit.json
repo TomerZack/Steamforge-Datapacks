@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/cover_crafting",
+		"particle": "item/cover_crafting"
+	},
+	"elements": [
+		{
+			"from": [-1, 0, -1],
+			"to": [17, 0, 17],
+			"faces": {
+				"north": {"uv": [0, 0, 9, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 9, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1.125, 1.0625], "texture": "#0"},
+				"down": {"uv": [0, 0, 9, 16], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, 0]
+		}
+	}
+}

@@ -1,0 +1,9 @@
+SteamForge Foundation Made by ZoMadeSuff, do not copy!
+
+To get the datapack in your world:
+1. choose the world in the singleplayer menu in-game and click on the "Edit" button.
+2. choose "Open World Folder" to get to your world folder.
+3. get into the "datapacks" folder and insert the zip file of the datapack into the folder.
+4. get into the world and type in the chat "/reload" and press Enter to activate the datapack.
+
+Enjoy!
