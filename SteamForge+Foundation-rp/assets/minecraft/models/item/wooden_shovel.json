@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_shovel"
+    },
+    "overrides": [
+		{"predicate": {"damaged": 0,"damage": 0.01694915254}, "model": "item/forge_cover"},
+		{"predicate": {"damaged": 0,"damage": 0.03389830508}, "model": "item/iron_tube"},
+		{"predicate": {"damaged": 0,"damage": 0.05084745762}, "model": "item/hammer"},
+		{"predicate": {"damaged": 0,"damage": 0.06779661016}, "model": "item/hammer_dropped"},
+		{"predicate": {"damaged": 0,"damage": 0.0847457627}, "model": "item/water_flat"},
+		{"predicate": {"damaged": 0,"damage": 0.10169491525}, "model": "item/lava_flat"},
+		{"predicate": {"damaged": 0,"damage": 0.11864406779}, "model": "item/stone_barrel"},
+		{"predicate": {"damaged": 0,"damage": 0.98305084745}, "model": "item/cover_unit"},
+		{"predicate": {"damaged": 1,"damage": 0}, "model": "item/wooden_shovel"}
+	]
+}
